@@ -1,0 +1,8 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+<jsp:directive.page contentType="text/html; charset=Utf-8"
+/>
+<html><head><title>Index JSP</title></head>
+<body>
+<a href="controller">Main Controller</a>
+</body></html>
+</jsp:root>
